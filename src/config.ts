@@ -1,11 +1,11 @@
 export default {
-  Title: '韩小韩博客',
-  Site: 'https://www.vvhan.com',
-  Subtitle: '不曾与你分享的时间,我在进步.',
-  Description: '韩小韩博客 专注于前开发与相关技术的实战分享，涵盖Vue框架、Node.js、Serverless等，并涉及Node、Python、Linux、Docker等领域。同时，博客也分享作者的生活、音乐和旅行的热爱。',
-  Author: '.𝙃𝙖𝙣',
-  Motto: '运气是计划之外的东西.',
-  Avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640',
+  Title: 'Wayne的博客',
+  Site: 'https://orzorg.eu.org',
+  Subtitle: '就是我的一些笔记',
+  Description: '我是一个LINUX的小白，主要记录下我的一些折腾的过程。同时，博客也分享作者的生活、音乐和旅行的热爱。',
+  Author: 'Wayne',
+  Motto: '机会留给有准备的人.',
+  Avatar: 'https://img.orzorg.eu.org/v2/jv0cvXe.jpeg',
   // 导航栏 (新窗口打开 newWindow: true)
   Navs: [
     { text: '朋友', link: '/links', icon: '/assets/images/svg/Navs/links.svg' },
@@ -17,11 +17,11 @@ export default {
   ],
   // 侧边栏个人网站
   WebSites: [
-    { text: 'Github', link: 'https://github.com/uxiaohan', icon: '/assets/images/svg/WebSites/github.svg' },
-    { text: '韩小韩API', link: 'https://api.vvhan.com', icon: '/assets/images/svg/WebSites/api.svg' },
-    { text: '每日热榜', link: 'https://hot.vvhan.com', icon: '/assets/images/svg/WebSites/hot.svg' },
-    { text: '骤雨重山图床', link: 'https://wp-cdn.4ce.cn', icon: '/assets/images/svg/WebSites/img.svg' },
-    { text: 'HanAnalytics', link: 'https://analytics.vvhan.com', icon: '/assets/images/svg/WebSites/analytics.svg' },
+    { text: 'Github', link: 'https://github.com', icon: '/assets/images/svg/WebSites/github.svg' },
+    { text: '韩小韩API', link: 'https://baidu.com', icon: '/assets/images/svg/WebSites/api.svg' },
+    { text: '每日热榜', link: 'https://', icon: '/assets/images/svg/WebSites/hot.svg' },
+    { text: '骤雨重山图床', link: 'https://img.orzorg.eu.org', icon: '/assets/images/svg/WebSites/img.svg' },
+    { text: 'HanAnalytics', link: 'https://baidu.com', icon: '/assets/images/svg/WebSites/analytics.svg' },
   ],
   // Cover 使用绝对路径
   Cover: '/assets/images/banner/072c12ec85d2d3b5.webp',
